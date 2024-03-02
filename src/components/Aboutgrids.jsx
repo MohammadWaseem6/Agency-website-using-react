@@ -28,3 +28,4 @@ function Aboutgrids({ icon, text, label, heading }) {
 }
 
 export default Aboutgrids
+// after nimaaz
